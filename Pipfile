@@ -8,9 +8,11 @@ requests = "*"
 Flask = "*"
 Flask-RESTful = "*"
 gunicorn = "*"
+wsgi = "*"
 
 [dev-packages]
 pytest = "*"
 Flask = "*"
 Flask-RESTful = "*"
 gunicorn = "*"
+wsgi = "*"
