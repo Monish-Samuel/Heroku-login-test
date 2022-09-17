@@ -7,8 +7,10 @@ name = "pypi"
 requests = "*"
 Flask = "*"
 Flask-RESTful = "*"
+gunicorn = "*"
 
 [dev-packages]
 pytest = "*"
 Flask = "*"
 Flask-RESTful = "*"
+gunicorn = "*"
